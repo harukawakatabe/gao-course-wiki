@@ -38,26 +38,32 @@
 
 ## 提炼工作流
 
+详细执行规范见 `docs/workflows/lecture-extraction-workflow.md`。该文档是单篇和批量提炼的准入流程，agent 执行提炼任务时必须优先遵守。
+
 ### 触发口令
 
 - 单篇：`提炼讲次 042`
 - 批量：`批量提炼 001 020 034 042 044`
 
-### 每篇提炼的固定步骤
+### 每篇提炼的最小闭环
 
-1. 读取来源卡片，取得 `source_path`。
-2. 读取原始 txt 文字稿全文。
-3. 填充讲次页面（`courses/business-logic/lectures/`）所有"待从来源文字稿中提炼"段落。
-4. 更新来源卡片：`status` 改为 `summarized`，填充"事实摘录"。
-5. 填充或更新对应 wiki 页面（`wiki/frameworks/` 或 `wiki/concepts/`）。
-6. 运行 `python scripts/lint_wiki.py`，确认通过。
-7. 在 `log.md` 追加提炼记录。
+1. 检查 git 状态，避免混入无关改动。
+2. 读取来源卡片，取得并核验 `source_path`。
+3. 读取原始 txt 全文，核对讲次编号、文件名标题和正文开场主题；如有错位必须记录。
+4. 填充或更新讲次页面（`courses/business-logic/lectures/`）所有提炼段落。
+5. 更新来源卡片：`status` 改为 `summarized`，填充事实摘录、推断和待验证项。
+6. 填充或更新对应 wiki 页面（`wiki/frameworks/`、`wiki/concepts/` 等），并保留来源证据。
+7. 必要时更新课程索引、wiki 索引和 AI 上下文入口。
+8. 运行 `python scripts/lint_wiki.py`，确认通过。
+9. 在 `log.md` 追加提炼记录。
+10. 只暂存本讲相关文件并提交 git。
 
 ### 内容写作要求
 
 - 讲次页面：保留课程原始逻辑顺序，用自己的语言提炼，不逐字复制。
 - wiki 页面：只写跨讲次稳定结论；单讲专有内容留在讲次页，不搬到 wiki。
 - 事实 / 推断 / 待验证三类结论必须明确标注。
+- 文件名、正文主题、来源卡片标题不一致时，不能删除错位说明，必须保留处理依据。
 
 ## 最小闭环（第一版目标）
 
