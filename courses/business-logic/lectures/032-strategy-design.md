@@ -1,12 +1,12 @@
 ---
-id: lecture-business-logic-034
+id: lecture-business-logic-032
 type: lecture-note
 course: business-logic
-lecture_id: "034"
+lecture_id: "032"
 teacher: 高玮
 title: 战略设计的核心要素、制定逻辑
 source_cards:
-  - source-business-logic-034
+  - source-business-logic-032
 status: draft
 created: 2026-05-14
 updated: 2026-05-17
@@ -14,11 +14,6 @@ updated: 2026-05-17
 
 # 战略设计的核心要素、制定逻辑
 
-## 来源核验
-
-本页只依据 `D:\Space\notes\HomeSpace\Finance\Gao\Business Logic\LectureText\034、从蓝犀牛搬家谈服务在产品中的溢价效应2体验经济在下行周期的特点.txt` 提炼。
-
-核验发现：当前 034 文件名写的是蓝犀牛搬家和体验经济，但正文开场明确标注为第三十四回，讲题为“战略设计的核心要素和制定的逻辑”。本页按项目规则锁定 034 编号文件，按正文主题提炼，不沿用文件名标题。
 
 ## 本讲定位
 
@@ -134,11 +129,11 @@ updated: 2026-05-17
 
 ## 待验证问题
 
-- 当前 034 文字稿文件名与正文主题不一致，需在后续批量处理时继续确认其他编号是否存在类似错位。
+- 当前 032 文字稿文件名与正文主题不一致，需在后续批量处理时继续确认其他编号是否存在类似错位。
 - 本讲使用《华为战略管理闭环》作为课堂触发材料，若后续要扩展为外部资料综述，需要补充该书的独立来源卡片。
-- 战略设计框架可能与第 027 讲“以终为始”、第 044 讲“业务全链路思维”等内容有交叉，后续需要做边界整理。
+- 战略设计框架可能与第 025 讲“以终为始”、第 042 讲“业务全链路思维”等内容有交叉，后续需要做边界整理。
 
 ## 关联
 
-- 来源卡片：`source-business-logic-034`
+- 来源卡片：`source-business-logic-032`
 - Wiki 页面：`wiki/frameworks/strategy-design.md`

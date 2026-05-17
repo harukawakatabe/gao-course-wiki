@@ -1,12 +1,12 @@
 ---
-id: lecture-business-logic-020
+id: lecture-business-logic-018
 type: lecture-note
 course: business-logic
-lecture_id: "020"
+lecture_id: "018"
 teacher: 高玮
 title: 复盘的方法
 source_cards:
-  - source-business-logic-020
+  - source-business-logic-018
 status: draft
 created: 2026-05-14
 updated: 2026-05-14
@@ -18,7 +18,6 @@ updated: 2026-05-14
 
 本讲讲的是“复盘”如何帮助个人和组织把经历转化为经验。老师不是把复盘理解为年终总结、项目汇报或责任检讨，而是把它放在能力养成链条中：先有知识输入，再有实践动作，再通过复盘校准目标、动作和结果，最终把外部知识内化成自己的能力。
 
-经来源核对，本讲按编号锁定来源卡片 `source-business-logic-020` 登记的 020 号文字稿。该文件名显示为 `020、消费主义的由来和真相（上）.txt`，但正文开场明确标注为第二十回，并实际讲授“复盘的方法”。因此本页按同编号文件和正文主题提炼。
 
 ## 核心问题
 
@@ -123,5 +122,5 @@ updated: 2026-05-14
 
 ## 关联
 
-- 来源卡片：`source-business-logic-020`
+- 来源卡片：`source-business-logic-018`
 - Wiki 页面：`wiki/frameworks/review-method.md`

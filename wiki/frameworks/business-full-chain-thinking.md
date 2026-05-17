@@ -5,7 +5,7 @@ title: 业务全链路思维
 status: draft
 source_scope:
   - course: business-logic
-    lecture_id: "044"
+    lecture_id: "042"
 human_checked: false
 created: 2026-05-14
 updated: 2026-05-14
@@ -15,7 +15,7 @@ updated: 2026-05-14
 
 ## 定义
 
-待从第 044 讲中提炼。
+待从第 042 讲中提炼。
 
 ## 解决什么问题
 
@@ -39,11 +39,11 @@ updated: 2026-05-14
 
 ## 与其他概念的关系
 
-- 关联讲次：`courses/business-logic/lectures/044-business-full-chain-thinking.md`
+- 关联讲次：`courses/business-logic/lectures/042-business-full-chain-thinking.md`
 
 ## 来源和证据
 
-- `sources/cards/source-business-logic-044.md`
+- `sources/cards/source-business-logic-042.md`
 
 ## 待验证问题
 

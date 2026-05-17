@@ -1,13 +1,13 @@
 ---
-id: source-business-logic-020
+id: source-business-logic-018
 type: source-card
 course: business-logic
-lecture_id: "020"
+lecture_id: "018"
 teacher: 高玮
 title: 复盘的方法
 source_format: transcript
 source_type: course-transcript
-source_path: "D:\\Space\\notes\\HomeSpace\\Finance\\Gao\\Business Logic\\LectureText\\020、消费主义的由来和真相（上）.txt"
+source_path: "D:\\Space\\notes\\HomeSpace\\Finance\\Gao\\Business Logic\\LectureText\\018、复盘的方法.txt"
 status: summarized
 rights: private-reference
 created: 2026-05-14
@@ -20,18 +20,17 @@ updated: 2026-05-17
 
 本来源为高玮商业逻辑课文字稿。
 
-核验说明：当前 `LectureText` 目录中，020 文件名显示为 `020、消费主义的由来和真相（上）.txt`，但正文开场明确标注为第二十回，并实际讲授“复盘的方法”。因此本卡片按编号锁定当前 020 文件，标题按正文主题记录。
 
 ## 文件信息
 
-- 本地路径：`D:\Space\notes\HomeSpace\Finance\Gao\Business Logic\LectureText\020、消费主义的由来和真相（上）.txt`
+- 本地路径：`D:\Space\notes\HomeSpace\Finance\Gao\Business Logic\LectureText\018、复盘的方法.txt`
 - 格式：txt
 - 课程：商业逻辑
-- 讲次：020
+- 讲次：018
 
 ## 已处理产物
 
-- 讲次页面：`courses/business-logic/lectures/020-review-method.md`
+- 讲次页面：`courses/business-logic/lectures/018-review-method.md`
 
 ## 事实摘录
 
@@ -48,9 +47,9 @@ updated: 2026-05-17
 
 ## 推断和待验证
 
-- 本讲的复盘方法同时面向组织管理和个人成长，后续需要继续确认它与第 027 讲“以终为始的规划和汇报方法”、第 034 讲“战略设计”以及第 044 讲“业务全链路思维”的边界。
+- 本讲的复盘方法同时面向组织管理和个人成长，后续需要继续确认它与第 025 讲“以终为始的规划和汇报方法”、第 032 讲“战略设计”以及第 042 讲“业务全链路思维”的边界。
 - “七个不放过”、鱼骨图、五问法等工具在本讲中作为课堂方法框架使用，后续若要形成标准模板，需再结合其他讲次和实际使用场景验证。
-- 当前 020 文件名与正文主题存在错位，后续批量提炼前需要继续先核对 `source_path` 的正文主题。
+- 当前 018 文件名与正文主题存在错位，后续批量提炼前需要继续先核对 `source_path` 的正文主题。
 
 ## 关联页面
 

@@ -7,10 +7,10 @@
 ## 样本讲次
 
 - [001 从 DAO 看组织的底层逻辑与核心要素](lectures/001-dao-organization-logic.md)
-- [020 复盘的方法](lectures/020-review-method.md)
-- [034 战略设计的核心要素、制定逻辑](lectures/034-strategy-design.md)
-- [042 第一性原理 1](lectures/042-first-principles-1.md)
-- [044 业务全链路思维方式](lectures/044-business-full-chain-thinking.md)
+- [018 复盘的方法](lectures/020-review-method.md)
+- [032 战略设计的核心要素、制定逻辑](lectures/034-strategy-design.md)
+- [040 第一性原理 1](lectures/042-first-principles-1.md)
+- [042 业务全链路思维方式](lectures/044-business-full-chain-thinking.md)
 
 ## 后续处理
 

@@ -5,7 +5,7 @@ title: 复盘方法
 status: draft
 source_scope:
   - course: business-logic
-    lecture_id: "020"
+    lecture_id: "018"
 human_checked: false
 created: 2026-05-14
 updated: 2026-05-14
@@ -19,7 +19,7 @@ updated: 2026-05-14
 
 ### 事实
 
-第 020 讲将复盘定位为能力内化的关键环节：知识输入本身不会自动变成能力，只有在行动之后看清目标、动作和结果之间的差距，才能修正认知与动作。
+第 018 讲将复盘定位为能力内化的关键环节：知识输入本身不会自动变成能力，只有在行动之后看清目标、动作和结果之间的差距，才能修正认知与动作。
 
 ### 推断
 
@@ -69,7 +69,7 @@ updated: 2026-05-14
 
 ## 与其他概念的关系
 
-- 关联讲次：`courses/business-logic/lectures/020-review-method.md`
+- 关联讲次：`courses/business-logic/lectures/018-review-method.md`
 - 关联框架：战略设计、以终为始、业务全链路思维。
 - 与战略设计的关系：战略设计回答长期目标和资源配置，复盘方法用于检查行动是否持续缩小目标差距。
 - 与以终为始的关系：以终为始强调先看目标和终局，复盘方法强调行动后用结果校准目标、路径和动作。
@@ -77,7 +77,7 @@ updated: 2026-05-14
 
 ## 来源和证据
 
-- `sources/cards/source-business-logic-020.md`
+- `sources/cards/source-business-logic-018.md`
 
 ## 待验证问题
 

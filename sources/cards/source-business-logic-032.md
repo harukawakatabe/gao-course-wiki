@@ -1,13 +1,13 @@
 ---
-id: source-business-logic-034
+id: source-business-logic-032
 type: source-card
 course: business-logic
-lecture_id: "034"
+lecture_id: "032"
 teacher: 高玮
 title: 战略设计的核心要素、制定逻辑
 source_format: transcript
 source_type: course-transcript
-source_path: "D:\\Space\\notes\\HomeSpace\\Finance\\Gao\\Business Logic\\LectureText\\034、从蓝犀牛搬家谈服务在产品中的溢价效应2体验经济在下行周期的特点.txt"
+source_path: "D:\\Space\\notes\\HomeSpace\\Finance\\Gao\\Business Logic\\LectureText\\032、战略设计的核心要素、制定逻辑.txt"
 status: summarized
 rights: private-reference
 created: 2026-05-14
@@ -16,22 +16,17 @@ updated: 2026-05-17
 
 # 来源卡片：战略设计的核心要素、制定逻辑
 
-## 来源说明
-
-本来源为高玮商业逻辑课文字稿。
-
-核验说明：本卡片严格对应当前 `LectureText` 目录中的 034 号文字稿。该文件名显示为 `034、从蓝犀牛搬家谈服务在产品中的溢价效应2体验经济在下行周期的特点.txt`，但正文开场明确标注为第三十四回，主题为“战略设计的核心要素和制定的逻辑”。因此本卡片按编号锁定 034 文件，标题按正文主题记录。
 
 ## 文件信息
 
-- 本地路径：`D:\Space\notes\HomeSpace\Finance\Gao\Business Logic\LectureText\034、从蓝犀牛搬家谈服务在产品中的溢价效应2体验经济在下行周期的特点.txt`
+- 本地路径：`D:\Space\notes\HomeSpace\Finance\Gao\Business Logic\LectureText\032、战略设计的核心要素、制定逻辑.txt`
 - 格式：txt
 - 课程：商业逻辑
-- 讲次：034
+- 讲次：032
 
 ## 已处理产物
 
-- 讲次页面：`courses/business-logic/lectures/034-strategy-design.md`
+- 讲次页面：`courses/business-logic/lectures/032-strategy-design.md`
 - Wiki 页面：`wiki/frameworks/strategy-design.md`
 
 ## 事实摘录
@@ -51,11 +46,11 @@ updated: 2026-05-17
 
 ## 推断和待验证
 
-- 当前 034 文件名与正文主题不一致，需后续批量处理时继续核对目录内其他文件是否也存在编号、文件名、正文主题错位。
+- 当前 032 文件名与正文主题不一致，需后续批量处理时继续核对目录内其他文件是否也存在编号、文件名、正文主题错位。
 - 本讲应沉淀到“战略设计”框架，而不应继续沉淀到下沉市场、人货场重构或时间机器理论。
 - 课程中引用《华为战略管理闭环》的框架，后续若要形成更严格的外部知识页，需要单独补充该书来源或外部引用。
 
 ## 关联页面
 
-- `courses/business-logic/lectures/034-strategy-design.md`
+- `courses/business-logic/lectures/032-strategy-design.md`
 - `wiki/frameworks/strategy-design.md`
