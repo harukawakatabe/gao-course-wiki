@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "746c607bb2e889eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "2351d59f1be4504c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd4bc55ab5343f94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sources/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2756a376bd435f68",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c31984cc182dcfb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f94ffe610973123",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a134ac7d522b5f16",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "68ebaa1378c889f8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cfacd935c96f9ec8",
+    "type": "split",
+    "children": [
+      {
+        "id": "625ae97e91c33dc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ec2f4b002fc16cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "sources/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "index 的反向链接列表"
+            }
+          },
+          {
+            "id": "d1fba006fd1ea021",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "sources/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "index 的出链列表"
+            }
+          },
+          {
+            "id": "78577e7a98d14d08",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "c1aca75233e64822",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "5d25c5c7c9f38488",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "sources/index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "index 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "cd4bc55ab5343f94",
+  "lastOpenFiles": [
+    "sources/raw-paths.md",
+    "sources/index.md",
+    "courses/business-logic/lectures/020-review-method.md",
+    "courses/business-logic/lectures/001-dao-organization-logic.md",
+    "applications/index.md",
+    "applications/analysis-toolkit/index.md",
+    "applications/ai-context/index.md"
+  ]
+}
