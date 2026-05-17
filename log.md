@@ -46,3 +46,13 @@
 - 更新 wiki 页面 `wiki/frameworks/review-method.md`，沉淀复盘定义、适用条件、五步法、七个不放过、直播软件稳定度案例和易错点。
 
 - 在 `AGENTS.md` 和 `CLAUDE.md` 增加约束：`courses/business-logic/lectures/` 的讲次编号必须与 `HomeSpace\Finance\Gao\Business Logic\LectureText` 中原始文字稿编号严格对应。
+
+## 2026-05-17 | lecture-018-source-extraction-corrected | 重新提炼讲次 018
+
+- 读取来源卡片 `sources/cards/source-business-logic-018.md`，确认文字稿路径为 `D:\Space\notes\HomeSpace\Finance\Gao\Business Logic\LectureText\018、复盘的方法.txt`。
+- 核对原始文字稿编号、文件名标题和正文主题：路径编号为 018，文件名标题为“复盘的方法”，正文开场明确为第十八回“从最近爆火的 ChatGPT 看 AI 是否会抢走人类饭碗”，存在文件名与正文主题错位。
+- 删除旧讲次页面 `courses/business-logic/lectures/018-review-method.md`，新增讲次页面 `courses/business-logic/lectures/018-ai-chatgpt-human-work.md`，按正文主题覆盖本讲定位、核心问题、主要观点、概念框架、案例和可复用启发。
+- 更新来源卡片状态为 `summarized`，补充 ChatGPT、AIGC、搜索与推荐引擎、传统行业 AI 应用和信息甄别相关事实摘录与推断/待验证项。
+- 删除缺少 018 正文证据支撑的旧 wiki 页面 `wiki/frameworks/review-method.md`，新增 wiki 页面 `wiki/frameworks/ai-capability-boundary.md`，沉淀 AI 能力边界与产业应用判断框架。
+- 更新课程索引和 wiki 索引，指向重新提炼后的 018 讲次页和 AI 框架页。
+- 运行 `python scripts\lint_wiki.py`，结果通过。

@@ -5,7 +5,7 @@ Wiki 层用于沉淀跨课程、跨讲次的稳定知识。它不按课程顺序
 ## 框架
 
 - [第一性原理](frameworks/first-principles.md)
-- [复盘方法](frameworks/review-method.md)
+- [AI 能力边界与产业应用判断](frameworks/ai-capability-boundary.md)
 - [业务全链路思维](frameworks/business-full-chain-thinking.md)
 - [战略设计](frameworks/strategy-design.md)
 
