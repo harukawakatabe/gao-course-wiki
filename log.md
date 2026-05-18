@@ -56,3 +56,11 @@
 - 删除缺少 018 正文证据支撑的旧 wiki 页面 `wiki/frameworks/review-method.md`，新增 wiki 页面 `wiki/frameworks/ai-capability-boundary.md`，沉淀 AI 能力边界与产业应用判断框架。
 - 更新课程索引和 wiki 索引，指向重新提炼后的 018 讲次页和 AI 框架页。
 - 运行 `python scripts\lint_wiki.py`，结果通过。
+
+## 2026-05-18 | lecture-018-resummarized | 覆盖重提炼讲次 018
+
+- 读取来源卡片 `sources/cards/source-business-logic-018.md`，确认文字稿路径为 `D:\Space\notes\HomeSpace\Finance\Gao\Business Logic\LectureText\018、复盘的方法.txt`。
+- 再次核对原始文字稿：路径编号为 018，文件名标题仍为“复盘的方法”，正文开场明确为第十八回“从最近爆火的 ChatGPT 看 AI 是否会抢走人类饭碗”，继续保留文件名与正文主题错位说明。
+- 覆盖讲次页面 `courses/business-logic/lectures/018-ai-chatgpt-human-work.md`，按正文主线重写本讲定位、核心问题、主要观点、概念框架、案例和可复用启发。
+- 覆盖来源卡片 `sources/cards/source-business-logic-018.md`，收紧事实摘录与推断/待验证项，使其更贴近原文的三段结构和 AI 判断主线。
+- 覆盖 wiki 页面 `wiki/frameworks/ai-capability-boundary.md`，继续沉淀 AI 能力边界、搜索与语言模型边界、传统行业落地前提和信息甄别框架。
