@@ -7,7 +7,7 @@ teacher: 高玮
 title: 从 ChatGPT 看 AI 是否会抢走人类饭碗
 source_format: transcript
 source_type: course-transcript
-source_path: "D:\\Space\\notes\\HomeSpace\\Finance\\Gao\\Business Logic\\LectureText\\018、复盘的方法.txt"
+source_path: "D:\\Space\\notes\\HomeSpace\\Finance\\Gao\\Business Logic\\LectureText\\018、从 ChatGPT 看 AI 是否会抢走人类饭碗.txt"
 status: summarized
 rights: private-reference
 created: 2026-05-14
@@ -18,16 +18,15 @@ updated: 2026-05-18
 
 ## 来源说明
 
-本来源为高玮商业逻辑课文字稿。路径编号为 018，文件名标题为“复盘的方法”，但正文开场明确标注“第十八回”，主题为“从最近爆火的 ChatGPT 看 AI 是否会抢走人类饭碗”。本卡片按原始编号 018 和正文主题处理，并继续保留文件名错位说明。
+本来源为高玮商业逻辑课文字稿，来源路径与讲次编号均已校正完成。
 
 ## 文件信息
 
-- 本地路径：`D:\Space\notes\HomeSpace\Finance\Gao\Business Logic\LectureText\018、复盘的方法.txt`
+- 本地路径：`D:\Space\notes\HomeSpace\Finance\Gao\Business Logic\LectureText\018、从 ChatGPT 看 AI 是否会抢走人类饭碗.txt`
 - 格式：txt
 - 课程：商业逻辑
 - 讲次：018
-- 文件名标题：复盘的方法
-- 正文主题：从 ChatGPT 看 AI 是否会抢走人类饭碗
+- 标题：从 ChatGPT 看 AI 是否会抢走人类饭碗
 
 ## 已处理产物
 
@@ -55,7 +54,6 @@ updated: 2026-05-18
 - 推断：老师对 AI 持谨慎偏乐观立场，既强调风险，也强调普通人和企业要尽快学会把 AI 接入自己的工作流。
 - 待验证：需结合后续 AI 相关讲次继续校正本讲对 ChatGPT 能力边界的判断，因为模型能力和产业格局会持续变化。
 - 待验证：需核对第 031、036、092、155、158、161 等数字化和 AI 相关讲次，判断本讲的传统行业 AI 战略是否能扩展为跨讲次框架。
-- 待验证：需人工确认原始文件名“复盘的方法”是否为资料整理错名，还是原课程目录存在标题错配。
 
 ## 关联页面
 
