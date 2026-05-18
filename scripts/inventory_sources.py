@@ -5,7 +5,7 @@ from pathlib import Path
 import re
 
 
-RAW_ROOT = Path(r"D:\Space\notes\HomeSpace\Finance\Gao\Business Logic\LectureText")
+RAW_ROOT = Path(r"D:\Project\Lecture\gao-course-raw\LectureText\Transcript")
 
 
 @dataclass(frozen=True)
@@ -18,12 +18,12 @@ class SourceFile:
 
 
 def parse_file(path: Path) -> SourceFile | None:
-    if path.suffix.lower() != ".txt":
+    if path.suffix.lower() not in {".txt", ".md"}:
         return None
-    match = re.match(r"^(\d{3})、(.+)\.txt$", path.name)
+    match = re.match(r"^(\d{3}(?:\.\d+)?)、(.+)\.(txt|md)$", path.name, re.IGNORECASE)
     if not match:
         return None
-    lecture_id, title = match.groups()
+    lecture_id, title, _suffix = match.groups()
     return SourceFile(
         course="business-logic",
         lecture_id=lecture_id,
@@ -35,7 +35,9 @@ def parse_file(path: Path) -> SourceFile | None:
 
 def collect_sources(root: Path) -> list[SourceFile]:
     sources: list[SourceFile] = []
-    for path in sorted(root.glob("*.txt")):
+    for path in sorted(root.iterdir()):
+        if not path.is_file():
+            continue
         source = parse_file(path)
         if source is not None:
             sources.append(source)
