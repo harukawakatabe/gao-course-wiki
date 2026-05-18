@@ -8,9 +8,6 @@
 
 - [001 从 DAO 看组织的底层逻辑与核心要素](lectures/001-dao-organization-logic.md)
 - [018 从 ChatGPT 看 AI 是否会抢走人类饭碗](lectures/018-ai-chatgpt-human-work.md)
-- [032 战略设计的核心要素、制定逻辑](lectures/034-strategy-design.md)
-- [040 第一性原理 1](lectures/042-first-principles-1.md)
-- [042 业务全链路思维方式](lectures/044-business-full-chain-thinking.md)
 
 ## 后续处理
 

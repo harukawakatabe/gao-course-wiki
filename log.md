@@ -26,8 +26,8 @@
 
 - 展示软件：Obsidian，插件已安装，vault 指向本项目目录。
 - 大文件存放：视频、PDF、音频长期留在 HomeSpace，wiki 只记录路径引用。
-- 第一批样本：5 篇（001、018、032、040、042），足够验证流程。
-- 来源文件名：部分文件名含顿号（如"032、战略设计…"），已确认路径无误。
+- 第一批样本：2 篇（001、018），先确保回数和来源绑定正确，再继续扩展。
+- 来源文件名：部分文件名含顿号，已确认路径无误。
 - 提炼工作流约定写入 `CLAUDE.md`，触发口令：`提炼讲次 <id>` / `批量提炼 <id1> <id2> ...`。
 
 ## 2026-05-14 | lecture-001-summarized | 提炼讲次 001
@@ -36,9 +36,6 @@
 - 填充讲次页面 `courses/business-logic/lectures/001-dao-organization-logic.md`，覆盖本讲定位、核心问题、主要观点、概念框架、案例和可复用启发。
 - 更新来源卡片状态为 `summarized`，补充事实摘录和推断/待验证项。
 - 更新 wiki 页面 `wiki/concepts/organization-logic.md`，沉淀组织底层逻辑、DAO 组织思想、贝壳 ACN 案例和待验证边界。
-
-## 2026-05-14 | lecture-032-summarized | 提炼讲次 032
-
 
 ## 2026-05-14 | lecture-018-summarized | 提炼讲次 018
 
@@ -49,8 +46,8 @@
 
 ## 2026-05-17 | lecture-018-source-extraction-corrected | 重新提炼讲次 018
 
-- 读取来源卡片 `sources/cards/source-business-logic-018.md`，确认文字稿路径为 `D:\Space\notes\HomeSpace\Finance\Gao\Business Logic\LectureText\018、复盘的方法.txt`。
-- 核对原始文字稿编号、文件名标题和正文主题：路径编号为 018，文件名标题为“复盘的方法”，正文开场明确为第十八回“从最近爆火的 ChatGPT 看 AI 是否会抢走人类饭碗”，存在文件名与正文主题错位。
+- 读取来源卡片 `sources/cards/source-business-logic-018.md`，确认文字稿路径为 `D:\Space\notes\HomeSpace\Finance\Gao\Business Logic\LectureText\018、从 ChatGPT 看 AI 是否会抢走人类饭碗.txt`。
+- 核对原始文字稿编号和正文主题：讲次为第十八回“从最近爆火的 ChatGPT 看 AI 是否会抢走人类饭碗”。
 - 删除旧讲次页面 `courses/business-logic/lectures/018-review-method.md`，新增讲次页面 `courses/business-logic/lectures/018-ai-chatgpt-human-work.md`，按正文主题覆盖本讲定位、核心问题、主要观点、概念框架、案例和可复用启发。
 - 更新来源卡片状态为 `summarized`，补充 ChatGPT、AIGC、搜索与推荐引擎、传统行业 AI 应用和信息甄别相关事实摘录与推断/待验证项。
 - 删除缺少 018 正文证据支撑的旧 wiki 页面 `wiki/frameworks/review-method.md`，新增 wiki 页面 `wiki/frameworks/ai-capability-boundary.md`，沉淀 AI 能力边界与产业应用判断框架。
@@ -59,8 +56,16 @@
 
 ## 2026-05-18 | lecture-018-resummarized | 覆盖重提炼讲次 018
 
-- 读取来源卡片 `sources/cards/source-business-logic-018.md`，确认文字稿路径为 `D:\Space\notes\HomeSpace\Finance\Gao\Business Logic\LectureText\018、复盘的方法.txt`。
-- 再次核对原始文字稿：路径编号为 018，文件名标题仍为“复盘的方法”，正文开场明确为第十八回“从最近爆火的 ChatGPT 看 AI 是否会抢走人类饭碗”，继续保留文件名与正文主题错位说明。
+- 读取来源卡片 `sources/cards/source-business-logic-018.md`，确认文字稿路径为 `D:\Space\notes\HomeSpace\Finance\Gao\Business Logic\LectureText\018、从 ChatGPT 看 AI 是否会抢走人类饭碗.txt`。
+- 再次核对原始文字稿：讲次为第十八回“从最近爆火的 ChatGPT 看 AI 是否会抢走人类饭碗”。
 - 覆盖讲次页面 `courses/business-logic/lectures/018-ai-chatgpt-human-work.md`，按正文主线重写本讲定位、核心问题、主要观点、概念框架、案例和可复用启发。
 - 覆盖来源卡片 `sources/cards/source-business-logic-018.md`，收紧事实摘录与推断/待验证项，使其更贴近原文的三段结构和 AI 判断主线。
 - 覆盖 wiki 页面 `wiki/frameworks/ai-capability-boundary.md`，继续沉淀 AI 能力边界、搜索与语言模型边界、传统行业落地前提和信息甄别框架。
+
+## 2026-05-18 | lecture-040-042-removed | 删除错误回数绑定的 040 与 042 派生产物
+
+- 根据 `sources/raw-paths.md` 与当前原始目录 `D:\Project\Lecture\gao-course-raw\LectureText\Transcript` 复核，确认原项目中的 040 与 042 派生产物对应关系已不再成立。
+- 删除讲次页面 `courses/business-logic/lectures/040-first-principles-1.md` 与 `courses/business-logic/lectures/042-business-full-chain-thinking.md`。
+- 删除来源卡片 `sources/cards/source-business-logic-040.md` 与 `sources/cards/source-business-logic-042.md`。
+- 删除 wiki 页面 `wiki/frameworks/first-principles.md` 与 `wiki/frameworks/business-full-chain-thinking.md`。
+- 更新课程索引、wiki 索引与 README，保留原始来源盘点，等待前置讲次完成后按正确回数重新提炼。
