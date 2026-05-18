@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sources/index.md",
+                "file": "courses/business-logic/lectures/018-ai-chatgpt-human-work.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "018-ai-chatgpt-human-work"
             }
           }
         ]
@@ -187,8 +187,8 @@
   },
   "active": "cd4bc55ab5343f94",
   "lastOpenFiles": [
-    "sources/raw-paths.md",
     "sources/index.md",
+    "sources/raw-paths.md",
     "courses/business-logic/lectures/020-review-method.md",
     "courses/business-logic/lectures/001-dao-organization-logic.md",
     "applications/index.md",
