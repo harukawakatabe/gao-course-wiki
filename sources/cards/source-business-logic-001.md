@@ -7,7 +7,7 @@ teacher: 高玮
 title: 从DAO看组织的底层逻辑与核心要素
 source_format: transcript
 source_type: course-transcript
-source_path: "D:\\Space\\notes\\HomeSpace\\Finance\\Gao\\Business Logic\\LectureText\\001、从DAO看组织的底层逻辑与核心要素.txt"
+source_path: "D:\\Project\\Lecture\\gao-course-raw\\LectureText\\Transcript\\001、从DAO看组织的底层逻辑与核心要素.txt"
 status: summarized
 rights: private-reference
 created: 2026-05-14
@@ -22,7 +22,7 @@ updated: 2026-05-14
 
 ## 文件信息
 
-- 本地路径：`D:\Space\notes\HomeSpace\Finance\Gao\Business Logic\LectureText\001、从DAO看组织的底层逻辑与核心要素.txt`
+- 本地路径：`D:\Project\Lecture\gao-course-raw\LectureText\Transcript\001、从DAO看组织的底层逻辑与核心要素.txt`
 - 格式：txt
 - 课程：商业逻辑
 - 讲次：001

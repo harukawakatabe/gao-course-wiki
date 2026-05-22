@@ -7,7 +7,7 @@ teacher: 高玮
 title: 从 ChatGPT 看 AI 是否会抢走人类饭碗
 source_format: transcript
 source_type: course-transcript
-source_path: "D:\\Space\\notes\\HomeSpace\\Finance\\Gao\\Business Logic\\LectureText\\018、从 ChatGPT 看 AI 是否会抢走人类饭碗.txt"
+source_path: "D:\\Project\\Lecture\\gao-course-raw\\LectureText\\Transcript\\018、从最近爆火的ChatGPT 看AI是否真会抢走人类饭碗.txt"
 status: summarized
 rights: private-reference
 created: 2026-05-14
@@ -22,7 +22,7 @@ updated: 2026-05-18
 
 ## 文件信息
 
-- 本地路径：`D:\Space\notes\HomeSpace\Finance\Gao\Business Logic\LectureText\018、从 ChatGPT 看 AI 是否会抢走人类饭碗.txt`
+- 本地路径：`D:\Project\Lecture\gao-course-raw\LectureText\Transcript\018、从最近爆火的ChatGPT 看AI是否真会抢走人类饭碗.txt`
 - 格式：txt
 - 课程：商业逻辑
 - 讲次：018
